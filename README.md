@@ -16,8 +16,8 @@
 <br/>
 : موضوعات توییت ها
 <br/>
-<img src="url/blob/main/images/tweets.PNG">
-![Reports Topics](https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG)
+<img src="url/images/tweets.PNG">
+<!-- ![Reports Topics](https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG) -->
 
 <br/>
 
