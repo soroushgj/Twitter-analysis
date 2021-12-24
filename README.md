@@ -7,12 +7,14 @@
 <br/>
 این تحلیل به دنیال این موضوع است تا با بررسی اینکه چه مسائلی از سمت مصرف کنندگان در زمینه طرح هایی که توسط تولیدکنندگان برای حفظ پایداریصورت میپذیرد مطرح است، میزان درک تولیدکنندگان از تقاضای مشتریان را مورد سنجش قرار دهد و عدم تطابق ها را نشان دهد
 
-
-***Reports Topics***
 <br/>
 ![Reports Topics](https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG)
 <br/>
-***Tweets Topics***
+***Reports Topics***
+<br/>
+
 <br/>
 ![Tweets Topics](https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG)
+<br/>
+***Tweets Topics***
 <br/>
