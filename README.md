@@ -8,7 +8,7 @@
 این تحلیل به دنیال این موضوع است تا با بررسی اینکه چه مسائلی از سمت مصرف کنندگان در زمینه طرح هایی که توسط تولیدکنندگان برای حفظ پایداریصورت میپذیرد مطرح است، میزان درک تولیدکنندگان از تقاضای مشتریان را مورد سنجش قرار دهد و عدم تطابق ها را نشان دهد
 <br/>
 
-<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG" width="49%" > <img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG" width="49%">
+<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG" width="49%"> <img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG" width="49%">
 
 <br/>
 
@@ -17,7 +17,7 @@
 در بخش توییت ها از جمله مواردی که میتوان به آن اشاره کرد، افزایش میزان توجه مردم در این شبکه اجتماعی به موضوعات مربوط به پایداری است.
 <br/>
 
-![Number of tweets through years](https://github.com/soroushgj/Twitter-analysis/blob/main/images/%23tweets.PNG)
+<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/%23tweets.PNG" align="center" width="49%">
 
 <br/>
 
