@@ -9,13 +9,13 @@
 <br/>
 Reports Topics
 
-<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG" width="250"> 
+<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG" width="50%"> 
 
 <br/>
 
 Tweet Topics
 
-<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG" width="250">
+<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG" width="50%">
 
 <br/>
 
