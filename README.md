@@ -8,9 +8,8 @@
 این تحلیل به دنیال این موضوع است تا با بررسی اینکه چه مسائلی از سمت مصرف کنندگان در زمینه طرح هایی که توسط تولیدکنندگان برای حفظ پایداریصورت میپذیرد مطرح است، میزان درک تولیدکنندگان از تقاضای مشتریان را مورد سنجش قرار دهد و عدم تطابق ها را نشان دهد
 <br/>
 
-<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG" width="46%" style="text-align='center'"> 
-
-<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG" width="48%">
+<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG" width="49%" > |
+<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG" width="49%">
 
 <br/>
 
