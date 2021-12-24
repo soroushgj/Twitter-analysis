@@ -25,3 +25,5 @@
 <br/>
 
 <img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/sentime.PNG" width="50%">
+
+<br/>
