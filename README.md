@@ -7,9 +7,16 @@
 <br/>
 این تحلیل به دنیال این موضوع است تا با بررسی اینکه چه مسائلی از سمت مصرف کنندگان در زمینه طرح هایی که توسط تولیدکنندگان برای حفظ پایداریصورت میپذیرد مطرح است، میزان درک تولیدکنندگان از تقاضای مشتریان را مورد سنجش قرار دهد و عدم تطابق ها را نشان دهد
 <br/>
-<!-- |<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG"> | <img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG">| -->
-<!-- ![Reports Topics](https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG) -->
-| <img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG" width="250"> | <img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG" width="250"> |
+Reports Topics
+
+<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG" width="250"> 
+
+<br/>
+
+Tweet Topics
+
+<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG" width="250">
+
 <br/>
 
 نام گذاری این موضعات هفت گانه که توسط ما استخراج شد، کاملا سلیقه ای است اما از بررسی کلید واژه های این موضوعات میتوانیم به درک مناسب تولیدکنندگان از تقاضاهای مصرف کنندگان پی برد، همچنین در صورت بررسی و آشنایی با ادبیات تحقیقاتی این مباحث میتوان پیش بینی های لازم برای بهبود این درک متقابل را انجام داد.
