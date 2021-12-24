@@ -9,9 +9,11 @@
 
 <br/>
 ![Reports Topics](https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG)
+<br/>
 ***Reports Topics***
 <br/>
 ![Tweets Topics](https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG)
+<br/>
 ***Tweets Topics***
 <br/>
 
