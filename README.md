@@ -23,5 +23,6 @@
 
 از دیگر مواردی که در این تحلیل استفاده شده است، استفاده از الگوریتم های تحلیل حساسیت برای به دست آوردن غالب احساسات مردم نسبت به موضوعات مطرح شده است.
 <br/>
-
-<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/sentime.PNG" height="5%">
+<p align="center" height="20%">
+<img src="https://github.com/soroushgj/Twitter-analysis/blob/main/images/sentime.PNG">
+</p>
