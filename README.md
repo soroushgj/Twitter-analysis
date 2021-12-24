@@ -26,11 +26,11 @@
 در بخش توییت ها از جمله مواردی که میتوان به آن اشاره کرد، افزایش میزان توجه مردم در این شبکه اجتماعی به موضوعات مربوط به پایداری است.
 <br/>
 
-![Reports Topics](https://github.com/soroushgj/Twitter-analysis/blob/main/images/#tweets.PNG)
+![Number of tweets through years](https://github.com/soroushgj/Twitter-analysis/blob/main/images/%23tweets.PNG)
 
 <br/>
 
 از دیگر مواردی که در این تحلیل استفاده شده است، استفاده از الگوریتم های تحلیل حساسیت برای به دست آوردن غالب احساسات مردم نسبت به موضوعات مطرح شده است.
 <br/>
 
-![Reports Topics](https://github.com/soroushgj/Twitter-analysis/blob/main/images/sentime.PNG)
+![Sentiment Analysis on Tweets](https://github.com/soroushgj/Twitter-analysis/blob/main/images/sentime.PNG)
