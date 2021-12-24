@@ -10,3 +10,7 @@
 
 *** Reports Topics ***
 ![Reports Topics](https://github.com/soroushgj/Twitter-analysis/blob/main/images/reports.PNG)
+
+
+*** Tweets Topics ***
+![Tweets Topics](https://github.com/soroushgj/Twitter-analysis/blob/main/images/tweets.PNG)
